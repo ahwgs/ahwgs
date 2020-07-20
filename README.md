@@ -15,7 +15,7 @@ a web front-end developer
 ### 📮 Contact Me
 
 - [✉️ Email](mailto:ah_wgs@126.com)
-- [😊 Wechat](Javascript_97)
+- 😊 Wechat Javascript_97
 
 ### 🤪 Other
 
