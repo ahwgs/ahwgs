@@ -1,11 +1,23 @@
-### Hi w候人兮猗 👋
+# Hi ahwgs 👋
+
+a web front-end developer
+
+![ahwgs's github stats](https://github-readme-stats.vercel.app/api?username=ahwgs&&show_icons=true&&title_color=1abc9c&&icon_color=1abc9c)
 
 
-**Languages and Tools:**  
+### 📝 Worked language
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-<img src='https://visitor-badge.glitch.me/badge?page_id=ahwgs.ahwgs'/>
+### 📮 Contact Me
+
+- [✉️ Email](mailto:ah_wgs@126.com)
+- [😊 Wechat](Javascript_97)
+
+### 🤪 Other
+
+- [📌 My Blog](https://www.ahwgs.cn)
+
