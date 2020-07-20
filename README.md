@@ -21,4 +21,4 @@ a web front-end developer
 
 - [📌 My Blog](https://www.ahwgs.cn)
 
-![](https://static.ahwgs.cn/blog-img/20200720140005.gif)
+![Dino](https://raw.githubusercontent.com/ahwgs/ahwgs/master/dino.gif)
