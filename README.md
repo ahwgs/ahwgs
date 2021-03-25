@@ -16,6 +16,11 @@ a web front-end developer
 - [✉️ Email](mailto:ah_wgs@126.com)
 - 😊 Wechat Javascript_97
 
+### 🤪 Other
+
+- [📌 My Blog](https://www.ahwgs.cn)
+
+
 📊 **This week I spent my time on**
 
 <!--START_SECTION:waka-->
@@ -28,8 +33,6 @@ No Activity tracked this Week
 <img align="left" width="460" src="https://github-readme-stats.vercel.app/api?username=ahwgs&custom_title=My Github Stats&theme=graywhite&hide_border=true"/> <img align="left" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahwgs&layout=compact&theme=graywhite&hide_border=true"/>
 </p>
 
-### 🤪 Other
 
-- [📌 My Blog](https://www.ahwgs.cn)
 
 ![Dino](https://raw.githubusercontent.com/ahwgs/ahwgs/master/dino.gif)
