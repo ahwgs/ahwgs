@@ -25,7 +25,11 @@ a web front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   29 mins         ███████████░░░░░░░░░░░░░░   44.03 % 
+JSON         27 mins         ██████████▓░░░░░░░░░░░░░░   42.32 % 
+TypeScript   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+Git Config   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Other        2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 ```
 <!--END_SECTION:waka-->
 
