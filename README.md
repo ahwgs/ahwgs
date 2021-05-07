@@ -25,11 +25,11 @@ a web front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   5 hrs 36 mins   ████████████▓░░░░░░░░░░░░   50.36 % 
-Vue.js       3 hrs 47 mins   ████████▓░░░░░░░░░░░░░░░░   34.05 % 
-JSON         44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-JavaScript   30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-Markdown     20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+TypeScript   12 hrs 51 mins  ████████████████░░░░░░░░░   63.56 % 
+Vue.js       3 hrs 45 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.61 % 
+LESS         1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+JSON         1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+JavaScript   50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 ```
 <!--END_SECTION:waka-->
 
