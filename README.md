@@ -33,10 +33,5 @@ Other        53 mins         ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<p>
-<img align="left" width="460" src="https://github-readme-stats.vercel.app/api?username=ahwgs&custom_title=My Github Stats&theme=graywhite&hide_border=true"/> <img align="left" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahwgs&layout=compact&theme=graywhite&hide_border=true"/>
-</p>
-
-
 
 ![Dino](https://raw.githubusercontent.com/ahwgs/ahwgs/master/dino.gif)
