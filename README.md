@@ -1,4 +1,4 @@
-# Hi ahwgs 👋
+# Hi I'm ahwgs 👋
 
 a web front-end developer
 
@@ -34,4 +34,3 @@ JavaScript   53 mins         ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-![Dino](https://raw.githubusercontent.com/ahwgs/ahwgs/master/dino.gif)
