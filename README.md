@@ -82,10 +82,15 @@ JavaScript   53 mins         ▓░░░░░░░░░░░░░░░░
       <td>Umi2.x/3.x ali oss plugin</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ahwgs/umi-plugin-alioss?style=plastic&labelColor=373f51&color=e07a5f" /></td>
     </tr>
-      <tr>
+    <tr>
       <td><a href="https://github.com/ahwgs/vite-plugin-html-config">vite-plugin-html-config</a></td>
       <td>Vite Html Auto Config Plugin</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ahwgs/vite-plugin-html-config?style=plastic&labelColor=373f51&color=e07a5f" /></td>
+    </tr>
+     <tr>
+      <td><a href="https://github.com/ahwgs/react-gantt">react-gantt</a></td>
+      <td>React Gantt Component</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ahwgs/react-gantt?style=plastic&labelColor=373f51&color=e07a5f" /></td>
     </tr>
     <tr>
       <td><a href="https://github.com/TuSimple/naive-ui">TuSimple/naive-ui</a></td>
