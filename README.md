@@ -98,7 +98,7 @@ Bash         11 mins         ▒░░░░░░░░░░░░░░░░
       <td><img alt="Stars" src="https://img.shields.io/github/stars/TuSimple/naive-ui?style=plastic&labelColor=373f51&color=e07a5f" /></td>
     </tr>
      <tr>
-      <td><a href="https://github.com/KieSun/fucking-frontend">fucking-fronten</a></td>
+      <td><a href="https://github.com/KieSun/fucking-frontend">fucking-frontend</a></td>
       <td>前端八股文 干爆前端</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/KieSun/fucking-frontend?style=plastic&labelColor=373f51&color=e07a5f" /></td>
     </tr>
