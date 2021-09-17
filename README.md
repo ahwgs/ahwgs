@@ -1,6 +1,6 @@
 # Hi I'm ahwgs 👋
 
-a web front-end developer
+Nodejs & FE Full Stack Developer
 
 ### 📝 我拿什么搬砖
 
