@@ -49,7 +49,7 @@ Bash         11 mins         ▒░░░░░░░░░░░░░░░░
   <tbody>
      <tr>
       <td><a href="https://github.com/osdoc-dev/avenger">@osdoc-dev/avenger-cli</a></td>
-      <td>一键创建项目，调试项目，打包项目脚手架</td>
+      <td>零配置二方包开发方案</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/osdoc-dev/avenger?style=plastic&labelColor=373f51&color=e07a5f" /></td>
     </tr>
     <tr>
