@@ -63,11 +63,6 @@ Bash         11 mins         ▒░░░░░░░░░░░░░░░░
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ahwgs/fast_h5_umi?style=plastic&labelColor=373f51&color=e07a5f" /></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ahwgs/better-learning">better-learning</a></td>
-      <td>珍藏的资料，一般人别看，看了你会觉得我辣鸡</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/ahwgs/better-learning?style=plastic&labelColor=373f51&color=e07a5f" /></td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/ahwgs/fast_nest_temp">fast_nest_temp</a></td>
       <td>快速构建Nest Web app server</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ahwgs/fast_nest_temp?style=plastic&labelColor=373f51&color=e07a5f" /></td>
