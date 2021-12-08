@@ -13,12 +13,13 @@ Nodejs & FE Full Stack Developer
 
 ### 📮 如果你需要联系我
 
-- [✉️ Email](mailto:ah_wgs@126.com)
+- [✉️ Email:ah_wgs@126.com](mailto:ah_wgs@126.com)
+- [✉️ Email:ahwgs1997@gmail.com](mailto:ahwgs1997@gmail.com)
 - 😊 Wechat Javascript_97
 
 ### 🤪 其他的联系方式（联系不上的）
 
-- [📌 My Blog](https://www.ahwgs.cn)
+- [📌 Twitter](https://twitter.com/ahwgs97)
 
 
 ### 📊 这周我都写了啥
