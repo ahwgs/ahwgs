@@ -26,11 +26,11 @@ Nodejs & FE Full Stack Developer
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   20 hrs 41 mins  ██████████████████░░░░░░░   72.62 % 
-JavaScript   4 hrs 24 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Markdown     1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-LESS         1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-JSON         45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+TypeScript   15 hrs 28 mins  ███████████████░░░░░░░░░░   60.59 % 
+JavaScript   5 hrs 52 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.02 % 
+LESS         1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Markdown     1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+JSON         54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 ```
 <!--END_SECTION:waka-->
 
