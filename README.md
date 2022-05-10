@@ -22,16 +22,6 @@ Nodejs & FE Full Stack Developer
 - [📌 Twitter](https://twitter.com/ahwgs97)
 
 
-### 📊 这周我都写了啥
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
 ### 🛺 最近开坑不填的轮子
 
 欢迎 Star ⭐⭐⭐
