@@ -36,11 +36,6 @@ Nodejs & FE Full Stack Developer
   </thead>
 
   <tbody>
-     <tr>
-      <td><a href="https://github.com/osdoc-dev/avenger">@osdoc-dev/avenger-cli</a></td>
-      <td>零配置二方包开发方案</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/osdoc-dev/avenger?style=plastic&labelColor=373f51&color=e07a5f" /></td>
-    </tr>
     <tr>
       <td><a href="https://github.com/osdoc-dev/eslint-config-preset">@osdoc-dev/eslint-config-preset</a></td>
       <td>自定义预设 Eslint、Prettier 方案</td>
