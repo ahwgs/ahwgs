@@ -17,11 +17,6 @@ Nodejs & FE Full Stack Developer
 - [✉️ Email:ahwgs1997@gmail.com](mailto:ahwgs1997@gmail.com)
 - 😊 Wechat ID: Javascript_97
 
-### 🤪 其他的联系方式（联系不上的）
-
-- [📌 Twitter](https://twitter.com/ahwgs97)
-
-
 ### 🛺 GitHub Analytics
 
 <div align="left">
