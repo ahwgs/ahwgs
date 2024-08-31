@@ -23,5 +23,3 @@ Nodejs & FE Full Stack Developer
   <img height="180em"  src="https://github-readme-stats-732htefl1-ahwgs.vercel.app/api?username=ahwgs&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em"  src="https://github-readme-stats-732htefl1-ahwgs.vercel.app/api/top-langs/?username=ahwgs&layout=compact&langs_count=8"/>
 </p>
-
-<img width='50%' src="https://raw.githubusercontent.com/ahwgs/ahwgs/master/expedition.gif"/>
